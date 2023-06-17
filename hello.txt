@@ -1,2 +1,2 @@
 hello
-ci test2
+ci testing

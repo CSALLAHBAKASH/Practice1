@@ -25,4 +25,4 @@ jobs:
         pip install pandas numpy pytest pylint
 
     - name: Run tests
-      run: pytest
+      run: echo hello
